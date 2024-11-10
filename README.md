@@ -1,4 +1,4 @@
-# Using Open-Source Ollama Model (llama3.1 ) with Langchain
+# Using Open-Source Meta llama3.1 8b using Ollama, Langchain and LangServe
 
 
 ## Purpose: The purpose of this notebook was to run and play with Meta's Llama 3.1 8b model using Ollama, langchain and langserve without incurring any costs :). Essentially to see what can be done for free! (I still have much more to play about with, but this is a start!)
