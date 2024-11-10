@@ -3,6 +3,12 @@
 
 ## Purpose: The purpose of this notebook was to run and play with Meta's Llama 3.1 8b model using Ollama, langchain and langserve without incurring any costs :). Essentially to see what can be done for free! (I still have much more to play about with, but this is a start!)
 
+## Still to implement and play with 
+
+(i) Other models 
+(ii) More complex chains
+(iii) LangSmith
+
 ## This tutorial is based on 2 notebooks:
 
  - (i) Ollama + Langchain official documentation (https://python.langchain.com/docs/integrations/chat/ollama/)
