@@ -8,6 +8,7 @@
 (i) Other models 
 (ii) More complex chains
 (iii) LangSmith
+(iv) RAG
 
 ## This tutorial is based on 2 notebooks:
 
